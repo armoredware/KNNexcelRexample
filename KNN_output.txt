@@ -1,0 +1,537 @@
+[1] "Q1- My CWID is 20204002, Training Data:"
+
+   duration credit_Amount installment cost_Matrix
+2        48          5951           2           2
+3        12          2096           2           1
+4        42          7882           2           1
+5        24          4870           3           2
+6        36          9055           2           1
+7        24          2835           3           1
+8        36          6948           2           1
+9        12          3059           2           1
+10       30          5234           4           2
+11       12          1295           3           2
+12       48          4308           3           2
+13       12          1567           1           1
+14       24          1199           4           2
+15       15          1403           2           1
+16       24          1282           4           2
+17       24          2424           4           1
+18       30          8072           2           1
+19       24         12579           4           2
+20       24          3430           3           1
+21        9          2134           4           1
+22        6          2647           2           1
+23       10          2241           1           1
+24       12          1804           3           1
+25       10          2069           2           1
+26        6          1374           1           1
+27        6           426           4           1
+28       12           409           3           1
+29        7          2415           3           1
+30       60          6836           3           2
+31       18          1913           3           1
+32       24          4020           2           1
+33       18          5866           2           1
+34       12          1264           4           1
+35       12          1474           4           1
+36       45          4746           4           2
+37       48          6110           1           1
+38       18          2100           4           2
+39       10          1225           2           1
+40        9           458           4           1
+41       30          2333           4           1
+42       12          1158           3           1
+43       18          6204           2           1
+44       30          6187           1           1
+45       48          6143           4           2
+46       11          1393           4           1
+47       36          2299           4           1
+48        6          1352           1           1
+49       11          7228           1           1
+50       12          2073           4           1
+51       24          2333           4           1
+52       27          5965           1           1
+53       12          1262           3           1
+54       18          3378           2           1
+55       36          2225           4           2
+56        6           783           1           1
+57       12          6468           2           2
+58       36          9566           2           1
+59       18          1961           3           1
+60       36          6229           4           2
+61        9          1391           2           1
+62       15          1537           4           1
+63       36          1953           4           2
+64       48         14421           2           2
+65       24          3181           4           1
+66       27          5190           4           1
+67       12          2171           2           1
+68       12          1007           4           1
+69       36          1819           4           2
+70       36          2394           4           1
+71       36          8133           1           1
+72        7           730           4           1
+73        8          1164           3           1
+74       42          5954           2           1
+75       36          1977           4           2
+76       12          1526           4           1
+77       42          3965           4           2
+78       11          4771           2           1
+79       54          9436           2           1
+80       30          3832           2           1
+81       24          5943           1           2
+82       15          1213           4           1
+83       18          1568           3           1
+84       24          1755           4           1
+85       10          2315           3           1
+86       12          1412           4           1
+87       18          1295           4           1
+88       36         12612           1           2
+89       18          2249           4           1
+90       12          1108           4           2
+91       12           618           4           1
+92       12          1409           4           1
+93       12           797           4           2
+94       24          3617           4           1
+95       12          1318           4           1
+96       54         15945           3           2
+97       12          2012           4           1
+98       18          2622           4           1
+99       36          2337           4           1
+
+
+[1] "Q2- My Test Data:"
+
+    duration credit_Amount installment cost_Matrix
+121       21          1835           3           2
+221       12           625           4           1
+
+
+[1] "Q3- Distance from My Test Data, row numbers are based on gcreditHW4.csv:"
+
+[1] "###Distance from 121:"
+[1] "row number:  2"
+[1] "Distance:  4116.08867737322"
+[1] "row number:  3"
+[1] "Distance:  261.157040877706"
+[1] "row number:  4"
+[1] "Distance:  6047.03654693768"
+[1] "row number:  5"
+[1] "Distance:  3035.00148270145"
+[1] "row number:  6"
+[1] "Distance:  7220.01565095257"
+[1] "row number:  7"
+[1] "Distance:  1000.00449998988"
+[1] "row number:  8"
+[1] "Distance:  5113.0221004803"
+[1] "row number:  9"
+[1] "Distance:  1224.03349627369"
+[1] "row number:  10"
+[1] "Distance:  3399.01206234988"
+[1] "row number:  11"
+[1] "Distance:  540.07499479239"
+[1] "row number:  12"
+[1] "Distance:  2473.14738743974"
+[1] "row number:  13"
+[1] "Distance:  268.158535198863"
+[1] "row number:  14"
+[1] "Distance:  636.007861586632"
+[1] "row number:  15"
+[1] "Distance:  432.042821951714"
+[1] "row number:  16"
+[1] "Distance:  553.009041517406"
+[1] "row number:  17"
+[1] "Distance:  589.008488903174"
+[1] "row number:  18"
+[1] "Distance:  6237.00657366978"
+[1] "row number:  19"
+[1] "Distance:  10744.000465376"
+[1] "row number:  20"
+[1] "Distance:  1595.00282131412"
+[1] "row number:  21"
+[1] "Distance:  299.24237667817"
+[1] "row number:  22"
+[1] "Distance:  812.139150638608"
+[1] "row number:  23"
+[1] "Distance:  406.153911713281"
+[1] "row number:  24"
+[1] "Distance:  32.2800247831379"
+[1] "row number:  25"
+[1] "Distance:  234.260538717045"
+[1] "row number:  26"
+[1] "Distance:  461.248306229952"
+[1] "row number:  27"
+[1] "Distance:  1409.08019644022"
+[1] "row number:  28"
+[1] "Distance:  1426.0284008392"
+[1] "row number:  29"
+[1] "Distance:  580.168940912903"
+[1] "row number:  30"
+[1] "Distance:  5001.1520672741"
+[1] "row number:  31"
+[1] "Distance:  78.0576709875461"
+[1] "row number:  32"
+[1] "Distance:  2185.00228832832"
+[1] "row number:  33"
+[1] "Distance:  4031.00124038681"
+[1] "row number:  34"
+[1] "Distance:  571.071799338752"
+[1] "row number:  35"
+[1] "Distance:  361.113555547282"
+[1] "row number:  36"
+[1] "Distance:  2911.09910514912"
+[1] "row number:  37"
+[1] "Distance:  4275.08573013454"
+[1] "row number:  38"
+[1] "Distance:  265.018867252881"
+[1] "row number:  39"
+[1] "Distance:  610.099991804622"
+[1] "row number:  40"
+[1] "Distance:  1377.05264968337"
+[1] "row number:  41"
+[1] "Distance:  498.082322513056"
+[1] "row number:  42"
+[1] "Distance:  677.059820104546"
+[1] "row number:  43"
+[1] "Distance:  4369.00114442649"
+[1] "row number:  44"
+[1] "Distance:  4352.00976561404"
+[1] "row number:  45"
+[1] "Distance:  4308.08472525785"
+[1] "row number:  46"
+[1] "Distance:  442.114238630696"
+[1] "row number:  47"
+[1] "Distance:  464.243470605673"
+[1] "row number:  48"
+[1] "Distance:  483.237001894516"
+[1] "row number:  49"
+[1] "Distance:  5393.00964212007"
+[1] "row number:  50"
+[1] "Distance:  238.1722066069"
+[1] "row number:  51"
+[1] "Distance:  498.010040059435"
+[1] "row number:  52"
+[1] "Distance:  4130.00484261217"
+[1] "row number:  53"
+[1] "Distance:  573.070676269516"
+[1] "row number:  54"
+[1] "Distance:  1543.0032404373"
+[1] "row number:  55"
+[1] "Distance:  390.289636039698"
+[1] "row number:  56"
+[1] "Distance:  1052.10883467444"
+[1] "row number:  57"
+[1] "Distance:  4633.00884954907"
+[1] "row number:  58"
+[1] "Distance:  7731.01461646529"
+[1] "row number:  59"
+[1] "Distance:  126.0357092256"
+[1] "row number:  60"
+[1] "Distance:  4394.02571681141"
+[1] "row number:  61"
+[1] "Distance:  444.163258273352"
+[1] "row number:  62"
+[1] "Distance:  298.062074071828"
+[1] "row number:  63"
+[1] "Distance:  118.953772533703"
+[1] "row number:  64"
+[1] "Distance:  12586.0290004433"
+[1] "row number:  65"
+[1] "Distance:  1346.00371470513"
+[1] "row number:  66"
+[1] "Distance:  3355.00551415344"
+[1] "row number:  67"
+[1] "Distance:  336.122001660111"
+[1] "row number:  68"
+[1] "Distance:  828.049515427671"
+[1] "row number:  69"
+[1] "Distance:  21.9544984001001"
+[1] "row number:  70"
+[1] "Distance:  559.202110153386"
+[1] "row number:  71"
+[1] "Distance:  6298.01818034848"
+[1] "row number:  72"
+[1] "Distance:  1105.08913667631"
+[1] "row number:  73"
+[1] "Distance:  671.125919630586"
+[1] "row number:  74"
+[1] "Distance:  4119.05365345003"
+[1] "row number:  75"
+[1] "Distance:  142.793557277631"
+[1] "row number:  76"
+[1] "Distance:  309.132657608348"
+[1] "row number:  77"
+[1] "Distance:  2130.10375334161"
+[1] "row number:  78"
+[1] "Distance:  2936.0172002221"
+[1] "row number:  79"
+[1] "Distance:  7601.07170075378"
+[1] "row number:  80"
+[1] "Distance:  1997.02053069066"
+[1] "row number:  81"
+[1] "Distance:  4108.00158227818"
+[1] "row number:  82"
+[1] "Distance:  622.029742054188"
+[1] "row number:  83"
+[1] "Distance:  267.01685340068"
+[1] "row number:  84"
+[1] "Distance:  80.0624756049924"
+[1] "row number:  85"
+[1] "Distance:  480.126025122571"
+[1] "row number:  86"
+[1] "Distance:  423.096915611542"
+[1] "row number:  87"
+[1] "Distance:  540.009259179877"
+[1] "row number:  88"
+[1] "Distance:  10777.0106244728"
+[1] "row number:  89"
+[1] "Distance:  414.01207711853"
+[1] "row number:  90"
+[1] "Distance:  727.056393961294"
+[1] "row number:  91"
+[1] "Distance:  1217.03368893388"
+[1] "row number:  92"
+[1] "Distance:  426.096233261924"
+[1] "row number:  93"
+[1] "Distance:  1038.03949828511"
+[1] "row number:  94"
+[1] "Distance:  1782.00280583393"
+[1] "row number:  95"
+[1] "Distance:  517.079297593706"
+[1] "row number:  96"
+[1] "Distance:  14110.0385896"
+[1] "row number:  97"
+[1] "Distance:  177.231487044487"
+[1] "row number:  98"
+[1] "Distance:  787.006353214509"
+[1] "row number:  99"
+[1] "Distance:  502.225049156252"
+
+
+[1] "###Distances from 221:"
+[1] "Row Number:  2"
+[1] "Distance:  5326.12204141062"
+[1] "Row Number:  3"
+[1] "Distance:  1471.00135961868"
+[1] "Row Number:  4"
+[1] "Distance:  7257.06228442336"
+[1] "Row Number:  5"
+[1] "Distance:  4245.01707888202"
+[1] "Row Number:  6"
+[1] "Distance:  8430.0344008788"
+[1] "Row Number:  7"
+[1] "Distance:  2210.03280518638"
+[1] "Row Number:  8"
+[1] "Distance:  6323.04586413858"
+[1] "Row Number:  9"
+[1] "Distance:  2434.00082169255"
+[1] "Row Number:  10"
+[1] "Distance:  4609.03514848824"
+[1] "Row Number:  11"
+[1] "Distance:  670.000746268241"
+[1] "Row Number:  12"
+[1] "Distance:  3683.17607507434"
+[1] "Row Number:  13"
+[1] "Distance:  942.004777057951"
+[1] "Row Number:  14"
+[1] "Distance:  574.125421837424"
+[1] "Row Number:  15"
+[1] "Distance:  778.008354710925"
+[1] "Row Number:  16"
+[1] "Distance:  657.109579902774"
+[1] "Row Number:  17"
+[1] "Distance:  1799.0400217894"
+[1] "Row Number:  18"
+[1] "Distance:  7447.02202225829"
+[1] "Row Number:  19"
+[1] "Distance:  11954.006023087"
+[1] "Row Number:  20"
+[1] "Distance:  2805.02584658324"
+[1] "Row Number:  21"
+[1] "Distance:  1509.00298210441"
+[1] "Row Number:  22"
+[1] "Distance:  2022.00989117264"
+[1] "Row Number:  23"
+[1] "Distance:  1616.00402227222"
+[1] "Row Number:  24"
+[1] "Distance:  1179.00042408813"
+[1] "Row Number:  25"
+[1] "Distance:  1444.00277008045"
+[1] "Row Number:  26"
+[1] "Distance:  749.030039451022"
+[1] "Row Number:  27"
+[1] "Distance:  199.090431713832"
+[1] "Row Number:  28"
+[1] "Distance:  216.002314802411"
+[1] "Row Number:  29"
+[1] "Distance:  1790.0072625551"
+[1] "Row Number:  30"
+[1] "Distance:  6211.18555510943"
+[1] "Row Number:  31"
+[1] "Distance:  1288.01436327395"
+[1] "Row Number:  32"
+[1] "Distance:  3395.02179668997"
+[1] "Row Number:  33"
+[1] "Distance:  5241.00381606425"
+[1] "Row Number:  34"
+[1] "Distance:  639"
+[1] "Row Number:  35"
+[1] "Distance:  849"
+[1] "Row Number:  36"
+[1] "Distance:  4121.13212600615"
+[1] "Row Number:  37"
+[1] "Distance:  5485.11895951218"
+[1] "Row Number:  38"
+[1] "Distance:  1475.01220333935"
+[1] "Row Number:  39"
+[1] "Distance:  600.00666662963"
+[1] "Row Number:  40"
+[1] "Distance:  167.026943934205"
+[1] "Row Number:  41"
+[1] "Distance:  1708.0948451418"
+[1] "Row Number:  42"
+[1] "Distance:  533.000938085478"
+[1] "Row Number:  43"
+[1] "Distance:  5579.00358487069"
+[1] "Row Number:  44"
+[1] "Distance:  5562.02993519452"
+[1] "Row Number:  45"
+[1] "Distance:  5518.11743260326"
+[1] "Row Number:  46"
+[1] "Distance:  768.000651041391"
+[1] "Row Number:  47"
+[1] "Distance:  1674.17203417092"
+[1] "Row Number:  48"
+[1] "Distance:  727.030948447176"
+[1] "Row Number:  49"
+[1] "Distance:  6603.00075723152"
+[1] "Row Number:  50"
+[1] "Distance:  1448"
+[1] "Row Number:  51"
+[1] "Distance:  1708.04215404656"
+[1] "Row Number:  52"
+[1] "Distance:  5340.02191006741"
+[1] "Row Number:  53"
+[1] "Distance:  637.000784928873"
+[1] "Row Number:  54"
+[1] "Distance:  2753.00726479245"
+[1] "Row Number:  55"
+[1] "Distance:  1600.17998987614"
+[1] "Row Number:  56"
+[1] "Distance:  158.142340946377"
+[1] "Row Number:  57"
+[1] "Distance:  5843.00034228991"
+[1] "Row Number:  58"
+[1] "Distance:  8941.03243479186"
+[1] "Row Number:  59"
+[1] "Distance:  1336.01384723363"
+[1] "Row Number:  60"
+[1] "Distance:  5604.05139162731"
+[1] "Row Number:  61"
+[1] "Distance:  766.008485592686"
+[1] "Row Number:  62"
+[1] "Distance:  912.004934197179"
+[1] "Row Number:  63"
+[1] "Distance:  1328.21684976513"
+[1] "Row Number:  64"
+[1] "Distance:  13796.0471150254"
+[1] "Row Number:  65"
+[1] "Distance:  2556.02816885886"
+[1] "Row Number:  66"
+[1] "Distance:  4565.02464396415"
+[1] "Row Number:  67"
+[1] "Distance:  1546.00129366052"
+[1] "Row Number:  68"
+[1] "Distance:  382"
+[1] "Row Number:  69"
+[1] "Distance:  1194.24118167144"
+[1] "Row Number:  70"
+[1] "Distance:  1769.16279635312"
+[1] "Row Number:  71"
+[1] "Distance:  7508.03895834325"
+[1] "Row Number:  72"
+[1] "Distance:  105.118980208143"
+[1] "Row Number:  73"
+[1] "Distance:  539.015769713651"
+[1] "Row Number:  74"
+[1] "Distance:  5329.08481824037"
+[1] "Row Number:  75"
+[1] "Distance:  1352.21300097285"
+[1] "Row Number:  76"
+[1] "Distance:  901"
+[1] "Row Number:  77"
+[1] "Distance:  3340.13472782162"
+[1] "Row Number:  78"
+[1] "Distance:  4146.00060299079"
+[1] "Row Number:  79"
+[1] "Distance:  8811.10032856283"
+[1] "Row Number:  80"
+[1] "Distance:  3207.05113772762"
+[1] "Row Number:  81"
+[1] "Distance:  5318.01438508773"
+[1] "Row Number:  82"
+[1] "Distance:  588.007653011421"
+[1] "Row Number:  83"
+[1] "Distance:  943.019618035595"
+[1] "Row Number:  84"
+[1] "Distance:  1130.06371501787"
+[1] "Row Number:  85"
+[1] "Distance:  1690.00147928929"
+[1] "Row Number:  86"
+[1] "Distance:  787"
+[1] "Row Number:  87"
+[1] "Distance:  670.026865133033"
+[1] "Row Number:  88"
+[1] "Distance:  11987.0244014101"
+[1] "Row Number:  89"
+[1] "Distance:  1624.01108370602"
+[1] "Row Number:  90"
+[1] "Distance:  483"
+[1] "Row Number:  91"
+[1] "Distance:  7"
+[1] "Row Number:  92"
+[1] "Distance:  784"
+[1] "Row Number:  93"
+[1] "Distance:  172"
+[1] "Row Number:  94"
+[1] "Distance:  2992.02406407435"
+[1] "Row Number:  95"
+[1] "Distance:  693"
+[1] "Row Number:  96"
+[1] "Distance:  15320.0576043303"
+[1] "Row Number:  97"
+[1] "Distance:  1387"
+[1] "Row Number:  98"
+[1] "Distance:  1997.00901349994"
+[1] "Row Number:  99"
+[1] "Distance:  1712.16821603486"
+
+
+[1] "Q4- Top 3 Nearest Neighbors:"
+[1] "The 3 Nearest Neighbors for 121 are(real row is the row as it is related to gcreditHW4.csv):"
+   realrow distance1
+68      69  21.95450
+23      24  32.28002
+30      31  78.05767
+[1] "The 3 Nearest Neighbors for 221 are(real row is the row as it is related to gcreditHW4.csv):"
+   realrow2 distance2
+90       91    7.0000
+71       72  105.1190
+55       56  158.1423
+
+
+[1] "Q5- Is test data 1 or 2 of cost matrix?:"
+[1] "Actual Data for row 121:"
+   duration credit_Amount installment cost_Matrix
+69       36          1819           4           2
+24       12          1804           3           1
+31       18          1913           3           1
+[1] "Row 69 is not correct  it should be 1, because all of the other nearest neighbors are 1:"
+[1] "Actual Data for row 221:"
+   duration credit_Amount installment cost_Matrix
+91       12           618           4           1
+72        7           730           4           1
+56        6           783           1           1
+[1] "These are all correct, they should all be 1"
+
